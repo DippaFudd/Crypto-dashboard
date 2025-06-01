@@ -3,8 +3,7 @@
 A modern, interactive cryptocurrency portfolio tracker built with Next.js, Tailwind CSS, and the CoinGecko API.
 
 ## Screenshots
-![Image Alt]()
-![Image Alt]()
+![Image Alt](https://github.com/DippaFudd/Crypto-dashboard/blob/ec13a3900c358b046cdb491ffa278dde33539fc1/2025-06-01%20(1).png)
 
 ## Features
 
