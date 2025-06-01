@@ -33,7 +33,7 @@ A modern, interactive cryptocurrency portfolio tracker built with Next.js, Tailw
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/crypto-portfolio-dashboard.git
+git clone (repo)
 cd crypto-portfolio-dashboard
 \`\`\`
 
