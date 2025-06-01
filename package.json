@@ -1,5 +1,6 @@
 {
-  "name": "my-v0-project",
+  "name": "crypto-dashboard",
+  "description": "A modern crypto dashboard built with Next.js, Radix UI, and Tailwind CSS.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
